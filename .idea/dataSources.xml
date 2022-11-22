@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+        <data-source source="LOCAL" name="mydbtest@localhost" uuid="17e53028-0408-4201-91b5-34e270f13248">
+            <driver-ref>mysql.8</driver-ref>
+            <synchronize>true</synchronize>
+            <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+            <jdbc-url>jdbc:mysql://localhost:3306/mydbtest</jdbc-url>
+            <working-dir>$ProjectFileDir$</working-dir>
+        </data-source>
+        <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="006015f6-7c23-4242-8037-98150fb4313d">
+            <driver-ref>mysql.8</driver-ref>
+            <synchronize>true</synchronize>
+            <imported>true</imported>
+            <remarks>Hibernate
+
+                C:/Users/WINDOWS/IdeaProjects/PP_1_1_3-4_JDBC_Hibernate/src/main/resources/hibernate.cfg.xml</remarks>
+            <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+            <jdbc-url>jdbc:mysql://localhost:3306/pp_1_1_3-4?useSSL=false</jdbc-url>
+            <working-dir>$ProjectFileDir$</working-dir>
+        </data-source>
+    </component>
+</project>
